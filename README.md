@@ -1,5 +1,5 @@
 # Colors-to-ImageJ
-Script em Python que converte um arquivo .csv de saída do FORD com os parâmetros image, rgb, r, g, b, h, s, v para .txt para uso no ImagePlot do ImageJ
+Script em Python que converte um arquivo Colors.csv de saída do FORD com os parâmetros image, rgb, r, g, b, h, s, v para .txt para uso no ImagePlot do ImageJ
 
 # Como usar
 0. Após analise das cores das imagens no FORD, será gerado um arquivo "Colors.csv"
